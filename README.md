@@ -1,4 +1,4 @@
-# 💻 .NET Assignment 5 – C# Database Connectivity
+# 💻 .NET Assignment 6 – C# Database Connectivity
 
 Welcome to my **.NET Assignment 5** repository! 👋
 
