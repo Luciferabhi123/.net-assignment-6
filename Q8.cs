@@ -93,4 +93,6 @@ class Program
 Expected output:
 Enter Student ID to delete: 3
 
-Student record deleted successfully. */
+Student record deleted successfully. 
+
+Important: row.Delete() initially marks the record as deleted in memory. The actual database deletion takes place when adapter.Update() executes the DeleteCommand. */
